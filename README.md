@@ -3,3 +3,4 @@ Projetos criados durante o curso Python Fundamentos Para Análise de Dados 3.0 d
 
 ## Projeto 1: Calculadora
 <div> <img src="https://i.giphy.com/media/QytRJAvwnaU7rvvjxC/giphy.webp"></div>
+Esse projeto de nível básico a intermediário consiste no desenvolvimento de um software (calculadora) utilizando a linguagem Python.
